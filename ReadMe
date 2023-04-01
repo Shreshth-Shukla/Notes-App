@@ -1,0 +1,3 @@
+npm run dev
+
+/Users/shreshthshalinishukla/mongodb/bin/mongod --dbpath=/Users/shreshthshalinishukla/mongodata
